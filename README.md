@@ -1,6 +1,3 @@
-Sure! Here's the English version of the README for your EmailBot project:
-
----
 
 # EmailBot - Python Email Sending Bot
 
@@ -72,6 +69,4 @@ bot.send_email()
 * Support SMTP servers requiring SSL connections
 * Improved error handling and logging
 
----
 
-Let me know if you want me to add anything else!
